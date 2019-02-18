@@ -10,3 +10,18 @@ su		suya/o
 nuestra/o	suya/o
 vuestra/o	suya/o
 su		suya/o
+
+
+5/39
+
+ON
+es	pequeno, no tranquillo
+esta	en el centro
+tiene	habitacion, cocina americana
+da a	
+
+ONA
+es	
+esta	
+tiene	
+da a	
