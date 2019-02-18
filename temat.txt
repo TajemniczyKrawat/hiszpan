@@ -1,8 +1,12 @@
 Mi casa es grande
 
-mi casa
-tu
-su
-nuestra
-vuestra
-su
+adjectivos	pronombres
+(przymiot.)	(przys³ówki)
+przed rzecz.	po rzecz.
+-------		-------
+mi casa/mn. + s	casami'a/o
+tu		tuya/o
+su		suya/o
+nuestra/o	suya/o
+vuestra/o	suya/o
+su		suya/o
